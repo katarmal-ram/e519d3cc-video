@@ -1,50 +1,55 @@
-
 {
-  "meta": {
-    "title": "Contact Us - Ashapura Brass Industries",
-    "description": "Get in touch with Ashapura Brass Industries for your precision brass manufacturing needs"
-  },
   "hero": {
     "type": "image",
+    "title": "Contact Jay Brass Manufacturing",
     "enabled": true,
-    "title": "Contact Us",
-    "subtitle": "Get in touch with our experts",
-    "description": "Ready to discuss your brass manufacturing requirements? Contact our team today.",
-    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Connect with Precision Components Experts",
+    "description": "Ready to discuss your automotive brass component requirements? Our team is prepared to provide tailored solutions and expert guidance for your manufacturing needs.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4d267"
+  },
+  "meta": {
+    "title": "Jay Brass - Precision Automotive Components Contact",
+    "description": "Contact Jay Brass for custom brass manufacturing solutions. Expert team ready to assist with automotive component requirements. Quick response guaranteed."
   },
   "sections": {
-    "contactInfo": {
-      "type": "contact-info",
-      "enabled": true,
-      "title": "Contact Information",
-      "subtitle": "Multiple ways to reach us",
-      "items": [
-        {
-          "type": "address",
-          "title": "Our Location",
-          "content": "Plot No. 42, Brass Industrial Estate, Jamnagar - 361004, Gujarat, India",
-          "icon": "map-pin"
-        },
-        {
-          "type": "phone",
-          "title": "Phone",
-          "content": "+91 288 271 0234",
-          "icon": "phone"
-        },
-        {
-          "type": "email",
-          "title": "Email",
-          "content": "info@ashapurabrass.com",
-          "icon": "mail"
-        }
-      ]
-    },
     "contactForm": {
       "type": "contact-form",
+      "items": [],
+      "title": "Send Us Your Requirements",
       "enabled": true,
-      "title": "Send us a Message",
-      "subtitle": "Fill out the form and we'll get back to you within 24 hours",
-      "items": []
+      "subtitle": "Fill out the form and our team will respond within 24 hours with a comprehensive solution"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Our Manufacturing Facility",
+          "content": "Industrial Area, Pune, Maharashtra, India"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Direct Contact",
+          "content": "+91 9876543210"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Communication",
+          "content": "info@jaybrass.com"
+        },
+        {
+          "icon": "linkedin",
+          "type": "social",
+          "title": "Professional Network",
+          "content": "LinkedIn/jaybrass"
+        }
+      ],
+      "title": "Multiple Ways to Connect",
+      "enabled": true,
+      "subtitle": "We're accessible through various channels to serve your manufacturing needs"
     }
   }
 }
